@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.sqlite3
+*.egg-info/
+.env
+.env.*
+
+# Poetry
+poetry.lock
+
+# Alembic
+alembic/versions/
+
+# VSCode and IDEs
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker
+*.log
+*.pid
+docker-compose.override.yml
+
+# Byte-compiled / cache
+.cache/
+*.bak
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Test output
+.coverage
+.tox/
+htmlcov/
+*.pytest_cache/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Builds
+build/
+dist/
+*.egg
+
+# Logs
+logs/
+*.log
