@@ -18,8 +18,8 @@ This project simulates a USD → local currency payment flow with a fee engine, 
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/payments-api.git
-cd payments-api
+git clone https://github.com/syedikramali/cbp.git
+cd cbp
 ```
 
 
